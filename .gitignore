@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated scan/database outputs
+runs/
+*.db
+recon.db
